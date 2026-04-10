@@ -1,0 +1,40 @@
+name,type,latitude,longitude,source
+Coronation Cafe,cafe,42.3772124,-72.5196635,point
+Courtside Café,cafe,42.3891571,-72.5316763,point
+Hampshire cafe,cafe,42.3839971,-72.5304548,point
+Harvest Market,cafe,42.3916824,-72.5267915,point
+ISB Café,cafe,42.3926728,-72.5247848,point
+Life and Earth Cafe,cafe,42.3896234,-72.5244919,point
+Masuda Cafe,cafe,42.377407,-72.518887,point
+Newman Cafe,cafe,42.3872849,-72.5218025,point
+Peet's Coffee,cafe,42.3912498,-72.5262829,point
+People's Market,cafe,42.3906292,-72.5274584,point
+Post & Bean,cafe,42.38823,-72.5237472,point
+Procrastination Station,cafe,42.3899151,-72.5283165,point
+Quad Cafe,cafe,42.393746,-72.5285113,point
+Share Coffee,cafe,42.3783281,-72.5202458,point
+Snack Overflow,cafe,42.3955369,-72.5305376,point
+Sylvan Snack Bar,cafe,42.3979469,-72.52223020000001,point
+Terrace,cafe,42.3850467,-72.525899,point
+Whitmore Café,cafe,42.3857854,-72.5268343,point
+Bangs Community Center,community_centre,42.37691016498858,-72.51839249848766,polygon
+Bruegger's Bagels,fast_food,42.3781134,-72.5202248,point
+Franklin Dining Commons,fast_food,42.389269105379945,-72.52252780458093,polygon
+Pita Pockets,fast_food,42.3772316,-72.51939560000001,point
+Primo Too,fast_food,42.3813027,-72.51856690000001,point
+Roots Cafe,fast_food,42.3881602,-72.5304735,point
+Worcester Commons,fast_food,42.39324664081248,-72.52512021624044,polygon
+Science & Engineering Library,library,42.3940536,-72.52675880000001,point
+W.E.B. Du Bois Library,library,42.38969922516388,-72.52814799096618,polygon
+Berkshire Dining Commons,restaurant,42.381936811087265,-72.52993888495058,polygon
+Earthfoods,restaurant,42.3881618,-72.5288189,point
+Garcia’s,restaurant,42.380766247279126,-72.51886982792145,polygon
+Greeno Subshop,restaurant,42.3899721,-72.5193333,point
+Hampshire Dining Commons,restaurant,42.38385567912106,-72.5305157136877,polygon
+Iya,restaurant,42.3788818,-72.51965340000001,point
+Lili’s Restaraunt,restaurant,42.3786244,-72.5196681,point
+Miss Saigon,restaurant,42.3771116,-72.5201945,point
+Panda East,restaurant,42.3772479,-72.519188,point
+Protocol,restaurant,42.3790939,-72.519613,point
+Sunset Grill and Pizza,restaurant,42.3812419,-72.52760090000001,point
+Uptown Tap & Grille,restaurant,42.3772345,-72.5202503,point
