@@ -147,8 +147,8 @@ def quiet_rankings(hour: Optional[int] = None):
 import joblib
 import numpy as np
 
-_model = joblib.load("model.pkl")
-_le = joblib.load("label_encoder.pkl")
+_model = joblib.load("model_new.pkl")
+_le = joblib.load("label_encoder_new.pkl")
 
 @app.get("/forecast")
 def forecast(location_id: UUID, hours_ahead: int = Query(1, ge=0, le=12)):
